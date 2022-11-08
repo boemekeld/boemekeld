@@ -3,4 +3,4 @@
  - Help to write an RFC;
  - Find the largest prime number;
  - Solve P vs NP;
- - Learn talk English.
+ - Learn to talk English.
